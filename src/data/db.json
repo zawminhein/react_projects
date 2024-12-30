@@ -1,0 +1,24 @@
+{
+  "todolist": [
+    {
+      "id": "6e191ea5-8f60-d003-e5b5-02f9263bc9f8",
+      "task": "Water",
+      "complete": false
+    },
+    {
+      "id": "6b173edf-09cd-740e-f7ef-22ffb415821a",
+      "task": "Coding",
+      "complete": false
+    },
+    {
+      "id": "6ab88e33-62f3-84f4-bf53-8fc79aa4e677",
+      "task": "Tesk",
+      "complete": false
+    },
+    {
+      "id": "207029c1-b19a-da9f-a28f-64c332561863",
+      "task": "Beer",
+      "complete": true
+    }
+  ]
+}
